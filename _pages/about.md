@@ -91,20 +91,18 @@ c) Text Mining and Network Analysis to Identify Genes Related To High Altitude D
 
 <h3>Projects</h3>
 
-Reducing  diagnostic delays in Acute Hepatic Porphyria using electronic health records data and machine learning: a multicenter development and validation study  
-
-Can machine learning be used to identify undiagnosed patients with Acute Hepatic Porphyria (AHP), a rare heritable condition?
-
-Train and evaluate models to separately predict referral and diagnosis
+<b>1. Reducing  diagnostic delays in Acute Hepatic Porphyria using electronic health records data and machine learning: a multicenter development and validation study</b>
+<br>•Can machine learning be used to identify undiagnosed patients with Acute Hepatic Porphyria (AHP), a rare heritable condition?
+<br>•Train and evaluate models to separately predict referral and diagnosis
 
 Using a cohort of recently seen patients at UCLA/UCSF, infer:
-Who is most likely to eventually be referred
-Who, among those, is likely to be diagnosed w/ AHP
-Sequentially enroll patients who meet both criteria to be tested
+<br>•Who is most likely to eventually be referred
+<br>•Who, among those, is likely to be diagnosed w/ AHP
+<br>•Sequentially enroll patients who meet both criteria to be tested
 
 Code Repository:[AHPPrediction](https://github.com/rwelab/AHPPrediction)
 
-Accurate, Robust, and Scalable Machine Abstraction of Mayo Endoscopic Subscores from Colonoscopy Reports
+<b>2. Accurate, Robust, and Scalable Machine Abstraction of Mayo Endoscopic Subscores from Colonoscopy Reports</b>
 
 Is natural language processing (NLP)a viable alternative to manually abstracting disease activity from notes?
 
@@ -115,102 +113,100 @@ Meaning: NLP methods like autoML appear to be sufficiently mature technologies f
 
 Code Repository: [MayoClassifier](https://github.com/rwelab/MayoClassifier)
 
-Improving adverse event detection related to biologic immunosuppressant use – a pilot study of the BERT deep learning model adapted to real-world clinical notes
+<b>3. Improving adverse event detection related to biologic immunosuppressant use – a pilot study of the BERT deep learning model adapted to real-world clinical notes</b>
 
-The goals of this project were to 1) develop a clinical language-specific adaptation of the BERT model by training it using 75 million machine-PHI-redacted clinical notes authored at the University of California, San Francisco (UCSF), and 2) adapt it to the task of serious adverse event detection from clinical notes. For this pilot study, we used outpatient clinical notes from the inflammatory bowel disease (IBD) clinic at UCSF and limited the scope of our model development to serious adverse events that resulted in a hospitalization and were associated with the use of biologc immunosuppressants for IBD. We compared our models against other publicly-available and state-of-the-art systems for clinical language inference, both on general benchmarked tasks as well as tasks pertaining specifically to adverse event detection.
+The goals of this project were to,
+<br>1) develop a clinical language-specific adaptation of the BERT model by training it using 75 million machine-PHI-redacted clinical notes authored at the University of California, San Francisco (UCSF), and 
+<br>2) adapt it to the task of serious adverse event detection from clinical notes. For this pilot study, we used outpatient clinical notes from the inflammatory bowel disease (IBD) clinic at UCSF and limited the scope of our model development to serious adverse events that resulted in a hospitalization and were associated with the use of biologc immunosuppressants for IBD. We compared our models against other publicly-available and state-of-the-art systems for clinical language inference, both on general benchmarked tasks as well as tasks pertaining specifically to adverse event detection.<br>
 
-Research Outcomes/Results
-Using 75 million clinical notes authored at UCSF, we successfully trained a dedicated clinical language model from scratch, called UCSF BERT. We evaluated its performance on multiple publicly benchmarked tasks related to clinical language inference. These tasks include identifying important medical concepts from clinical notes as well as correctly characterizing the relationships between these concepts. For example, identifying drug and diseases that are mentioned in notes, as well as recognizing relationships such as “Drug A is a treatment for disease B”. On these tasks, our model performs as well as or better than previously published models. These included versions of BERT that have been trained on publicly available documents related to biomedical and clinical topics.
+<b>Research Outcomes/Results</b>
+Using 75 million clinical notes authored at UCSF, we successfully trained a dedicated clinical language model from scratch, called UCSF BERT. We evaluated its performance on multiple publicly benchmarked tasks related to clinical language inference. These tasks include identifying important medical concepts from clinical notes as well as correctly characterizing the relationships between these concepts. For example, identifying drug and diseases that are mentioned in notes, as well as recognizing relationships such as “Drug A is a treatment for disease B”. On these tasks, our model performs as well as or better than previously published models. These included versions of BERT that have been trained on publicly available documents related to biomedical and clinical topics.<br>
 We subsequently customized this model to perform tasks specific to serious adverse event detection. These included identifying temporal relationships between medications of interest and subsequent hospitalizations (e.g. the patient was hospitalized after starting drug A) as well as identifying the stated reasons for given hospitalizations (e.g. the patient was hospitalized for acute pancreatitis). These customized BERT models were compared to previously published, state of the art models for adverse event detection. These models were trained and evaluated using a collection of gastroenterology clinical notes written about patients with inflammatory bowel disease, many of whom received biologic treatments for their disease.
 Our best performing models achieved accuracy ranging from 88-96% and a macro F1 score ranging from 62-68%. The latter is a more stringent metric that reflects the general rarity of serious adverse events (defined here as those associated with a hospitalization) in our collection of notes. These models performed reasonably well despite the significant length of these clinical notes, and generally outperformed state-of-the-art models by up to 10%.
 Overall, these results support the feasibility and the value of using advanced clinical language models to automate the detection of adverse events from electronic health records data. These models may someday support the surveillance of drug safety in the post-marketing setting using new data sources.
-Research Impacts
-Facilitation of strategic relationships with expert groups and stakeholders: This project has established new relationships between the FDA and our university, comprised of stakeholders that include clinicians, pharmacists, researchers, software engineers, and patients. Our team is currently in the process of developing a follow-on grant that involves both FDA and UCSF stakeholders, to continue the development of this method.
+<br>Research Impacts
+<br>Facilitation of strategic relationships with expert groups and stakeholders: This project has established new relationships between the FDA and our university, comprised of stakeholders that include clinicians, pharmacists, researchers, software engineers, and patients. Our team is currently in the process of developing a follow-on grant that involves both FDA and UCSF stakeholders, to continue the development of this method.
 Scientific publications/citations in literature: We are in the process of submitting one paper describing the UCSF BERT model and are preparing a second (and possibly third) manuscript to report the results of the serious AE detection customizations of our BERT model.
-Presentations at conferences/meetings: Our work has been accepted for presentation at the American Medical Informatics Association 2022 annual summit, and we anticipate additional conference presentations. We are also in the process of preparing an education session for the Drug Information Association meeting in 2023.
-Data-sharing with public: The underlying data used to train and test this model are deidentified and available to interested members of the public on request.
-Technology transfer to stakeholders: Our models will be made publicly available to enable others to build upon and improve these adverse event detection methods
-Catalyst for future research: This pilot study has led to multiple follow-on grant submissions by our team to both internal and external funding sources to support future development of these methods.
-Code Repository: [IBD_ADE](https://github.com/balubhasuran/IBD_ADE)
-Patient trajectories and risk prediction in patients with NASH (Nonalcoholic steatohepatitis)
-Primary:
-In an incident cohort with NASH receiving the standard of care, predict the time to each of five major clinical outcomes (Compensated Cirrhosis, Decompensated Cirrhosis, Liver Transplant, Hepatocellular Carcinoma, Death)
-Secondary:
-Identify (modifiable) risk factors that predict progression towards these outcomes
-Estimate the average, annual healthcare utilization and costs a/w NASH-related outcomes
-Exploratory:
-Time from the diagnosis of a patient’s first metabolic RF to an LFT or liver imaging order
-Time to cardiovascular disease-associated mortality
+<br>Presentations at conferences/meetings: Our work has been accepted for presentation at the American Medical Informatics Association 2022 annual summit, and we anticipate additional conference presentations. We are also in the process of preparing an education session for the Drug Information Association meeting in 2023.
 
+<br>Code Repository: [IBD_ADE](https://github.com/balubhasuran/IBD_ADE)<br>
+<b>Patient trajectories and risk prediction in patients with NASH (Nonalcoholic steatohepatitis)</b>
+<br>Primary:<br>
+In an incident cohort with NASH receiving the standard of care, predict the time to each of five major clinical outcomes (Compensated Cirrhosis, Decompensated Cirrhosis, Liver Transplant, Hepatocellular Carcinoma, Death)<br>
+<br>Secondary:<br>
+Identify (modifiable) risk factors that predict progression towards these outcomes<br>
+Estimate the average, annual healthcare utilization and costs a/w NASH-related outcomes<br>
+Exploratory:<br>
+Time from the diagnosis of a patient’s first metabolic RF to an LFT or liver imaging order<br>
+Time to cardiovascular disease-associated mortality<br>
 
 Code Repository: [NASHDetection](https://github.com/rwelab/NASHDetection)
 
-D-NER: Disease Name Recognizer from literature using stacked ensemble and fuzzy matching
-The core concept behind D-NER tool is a hybrid methodology with various orthographical, semantic triggers and typographical features through ensemble machine learning coupled with in-house disease dictionary fuzzy matching.
-[Publication: [here]]
-[Availability:](http: //www.biominingbu.org:8080/dner/)
-[Java, JSP, Java Script and Apache ]
+<br><b>D-NER: Disease Name Recognizer from literature using stacked ensemble and fuzzy matching</b><br>
+The core concept behind D-NER tool is a hybrid methodology with various orthographical, semantic triggers and typographical features through ensemble machine learning coupled with in-house disease dictionary fuzzy matching.<br>
+[Publication: [here]]<br>
+[Availability:](http: //www.biominingbu.org:8080/dner/)<br>
+[Java, JSP, Java Script and Apache ]<br>
 
-DisGeReEXT:  Knowledge discovery by analysis of gene disease relations from Medline 
-DisGeReEXT presents a literature wide analysis study (LWAS) to extract both direct and indirect gene disease associations using joint ensemble learning(explicit) along with concept profiling using ABC principle(implicit) for prioritizing and rationalize potential informative discoveries of the genetic role on diseases. The server also provides ranked the informative sentences using a scoring model and calculated the Disease-Disease similarity using functional association among shared genes
-[Publication: here]
-[Availability:](http://www.biominingbu.org/DisGeReExT/)
-[Python, Java Script, CytoScape Web and Apache ]
+<b>DisGeReEXT:  Knowledge discovery by analysis of gene disease relations from Medline </b>
+<br>DisGeReEXT presents a literature wide analysis study (LWAS) to extract both direct and indirect gene disease associations using joint ensemble learning(explicit) along with concept profiling using ABC principle(implicit) for prioritizing and rationalize potential informative discoveries of the genetic role on diseases. The server also provides ranked the informative sentences using a scoring model and calculated the Disease-Disease similarity using functional association among shared genes<br>
+[Publication: here]<br>
+[Availability:](http://www.biominingbu.org/DisGeReExT/)<br>
+[Python, Java Script, CytoScape Web and Apache ]<br>
 
-Automatic extraction of gene-disease associations from literature using joint ensemble learning: GDMiner
-This work employed a supervised machine learning approach in which a rich feature set covering conceptual, syntax and semantic properties jointly learned with word embedding are trained using ensemble support vector machine for extracting gene-disease relations from four gold standard corpora. Upon evaluating the machine learning approach shows promised results of 85.34%, 83.93%,87.39% and 85.57% of F-measure on EUADR, GAD, CoMAGC and PolySearch corpora respectively. 
-[Publication: here]
-[Availability:](http: //www.biominingbu.org:8080/gdminer/)
-
-
-[Availability:](https://doi.org/10.1371/journal.pone.0200699.s001)
-
-[Word2Vec, EnsembleSVM]
+<b>Automatic extraction of gene-disease associations from literature using joint ensemble learning: GDMiner</b>
+<br>This work employed a supervised machine learning approach in which a rich feature set covering conceptual, syntax and semantic properties jointly learned with word embedding are trained using ensemble support vector machine for extracting gene-disease relations from four gold standard corpora. Upon evaluating the machine learning approach shows promised results of 85.34%, 83.93%,87.39% and 85.57% of F-measure on EUADR, GAD, CoMAGC and PolySearch corpora respectively. <br>
+[Publication: here]<br>
+[Availability:](http: //www.biominingbu.org:8080/gdminer/)<br>
 
 
-BCC-NER: Bidirectional, Contextual Clues Named Entity Tagger for Gene/Protein Mention Recognition 
-BCC-NER is deployed with three modules. The first module is for text processing which includes basic NLP pre-processing, feature extraction and feature selection. The second module is for training and model building with bidirectional conditional random fields (CRF) to parse the text in both directions (forward and backward) and integrate the backward and forward trained models using margin infused relaxed algorithm (MIRA). The third and final module is for post-processing to achieve a better performance, which includes surrounding text features, parenthesis mismatching and two-tier abbreviation algorithm. 
-[Publication: here]
-[Availability:](http://biominingbu.org:8080/BCC-NER)
-[Java, JSP, Java Script and Apache ]
+[Availability:](https://doi.org/10.1371/journal.pone.0200699.s001)<br>
+
+[Word2Vec, EnsembleSVM]<br>
 
 
-Text mining and network analysis to find functional associations of genes in high altitude diseases
-In this work we identified the gene networks responsible for high altitude diseases by using the principle of gene co-occurrence statistics from literature and network analysis. First, we mined the literature data from PubMed on high-altitude diseases, and extracted the co-occurring gene pairs. Next, based on their co-occurrence frequency, gene pairs were ranked. Finally, a gene association network was created using statistical measures to explore potential relationships. Network analysis results revealed that EPO, ACE, IL6 and TNF are the top five genes that were found to co-occur with 20 or more genes, while the association between EPAS1 and EGLN1 genes is strongly substantiated
-[Publication: here]
-[Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S1476927117302207-mmc1.zip)
+<b>BCC-NER: Bidirectional, Contextual Clues Named Entity Tagger for Gene/Protein Mention Recognition</b> <br>
+BCC-NER is deployed with three modules. The first module is for text processing which includes basic NLP pre-processing, feature extraction and feature selection. The second module is for training and model building with bidirectional conditional random fields (CRF) to parse the text in both directions (forward and backward) and integrate the backward and forward trained models using margin infused relaxed algorithm (MIRA). The third and final module is for post-processing to achieve a better performance, which includes surrounding text features, parenthesis mismatching and two-tier abbreviation algorithm. <br>
+[Publication: here]<br>
+[Availability:](http://biominingbu.org:8080/BCC-NER)<br>
+[Java, JSP, Java Script and Apache ]<br>
+
+
+<b>Text mining and network analysis to find functional associations of genes in high altitude diseases<b/><br>
+In this work we identified the gene networks responsible for high altitude diseases by using the principle of gene co-occurrence statistics from literature and network analysis. First, we mined the literature data from PubMed on high-altitude diseases, and extracted the co-occurring gene pairs. Next, based on their co-occurrence frequency, gene pairs were ranked. Finally, a gene association network was created using statistical measures to explore potential relationships. Network analysis results revealed that EPO, ACE, IL6 and TNF are the top five genes that were found to co-occur with 20 or more genes, while the association between EPAS1 and EGLN1 genes is strongly substantiated<br>
+[Publication: here]<br>
+[Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S1476927117302207-mmc1.zip)<br>
                
-[Java, CytoScape,Clustering]
+[Java, CytoScape,Clustering]<br>
 
 
-Genomic analysis of RNA-Seq and sRNA-Seq data identifies potential regulatory sRNAs and their functional roles in Staphylococcus aureus
-In-silico analysis of coding and non-coding RNA-Seq data to explore their functional association in resistant S. aureus. A global network was generated using opposite-expression and co-expression analysis to explore potential associations. 9 sRNAs and 10 genes were identified as potential hubs. The critical role of the non-coding RNA sRNA95 as a drug target was suggested.
-[Publication: here]
-[Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S0888754318300697-mmc1.pdf)
-[whole-genome sRNA-gene network of Staphylococcus aureus]
+<b>Genomic analysis of RNA-Seq and sRNA-Seq data identifies potential regulatory sRNAs and their functional roles in Staphylococcus aureus</b><br>
+In-silico analysis of coding and non-coding RNA-Seq data to explore their functional association in resistant S. aureus. A global network was generated using opposite-expression and co-expression analysis to explore potential associations. 9 sRNAs and 10 genes were identified as potential hubs. The critical role of the non-coding RNA sRNA95 as a drug target was suggested.<br>
+[Publication: here]<br>
+[Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S0888754318300697-mmc1.pdf)<br>
+[whole-genome sRNA-gene network of Staphylococcus aureus]<br>
 
 
-Multiscale Laplacian graph kernel combined with lexico-syntactic patterns for biomedical event extraction from literature
+<b>Multiscale Laplacian graph kernel combined with lexico-syntactic patterns for biomedical event extraction from literature</b><br>
 This work employed a hybrid approach that integrates an ensemble-learning framework by combining a Multiscale Laplacian Graph kernel and a feature-based linear kernel, using a pattern-matching engine to identify biomedical events with arguments. This graph-based kernel not only captures the topological relationships between the individual event nodes but also identifies the associations among the subgraphs for complex events. In addition, the lexico-syntactic patterns were used to automatically discover the semantic role of each word in the sentence.
-[Publication: here]
-[Availability:](http://biominingbu.org/bioevent_extraction/)
+[Publication: here]<br>
+[Availability:](http://biominingbu.org/bioevent_extraction/)<br>
               
-[Multiscale Laplacian Graph kernel, Bio Event]
+[Multiscale Laplacian Graph kernel, Bio Event]<br>
 
 
 
 
-The potential role of procyanidin as a therapeutic agent against 
-SARS-CoV-2: a text mining, molecular docking and molecular dynamics simulation approach
-This study used text mining and named entity recognition method to identify co-occurrence of the important COVID 19 genes/proteins in the interaction network based on the frequency of the interaction. Network analysis revealed a set of genes/proteins, highly dense genes/protein clusters and sub-networks of Angiotensin-converting enzyme 2 (ACE2), Helicase, spike (S) protein (trimeric), membrane (M) protein, envelop (E) protein, and the nucleocapsid (N) protein. The isolated proteins are screened against procyanidin-a flavonoid from plants using molecular docking. Further, molecular dynamics simulation of critical proteins such as ACE2, Mpro and spike proteins are performed to elucidate the inhibition mechanism.
-[Publication: here]
-[Availability:](https://www.tandfonline.com/doi/suppl/10.1080/07391102.2020.1823887?scroll=top)
-[COVID 19, Text Mining, Procyanidin, Flavonoids]
+<br><b>The potential role of procyanidin as a therapeutic agent against  SARS-CoV-2: a text mining, molecular docking and molecular dynamics simulation approach</b>
+<br>This study used text mining and named entity recognition method to identify co-occurrence of the important COVID 19 genes/proteins in the interaction network based on the frequency of the interaction. Network analysis revealed a set of genes/proteins, highly dense genes/protein clusters and sub-networks of Angiotensin-converting enzyme 2 (ACE2), Helicase, spike (S) protein (trimeric), membrane (M) protein, envelop (E) protein, and the nucleocapsid (N) protein. The isolated proteins are screened against procyanidin-a flavonoid from plants using molecular docking. Further, molecular dynamics simulation of critical proteins such as ACE2, Mpro and spike proteins are performed to elucidate the inhibition mechanism.<br>
+[Publication: here]<br>
+[Availability:](https://www.tandfonline.com/doi/suppl/10.1080/07391102.2020.1823887?scroll=top)<br>
+[COVID 19, Text Mining, Procyanidin, Flavonoids]<br>
 
 
-Molecular Mechanism of T-2 Toxin-Induced Cerebral Edema by Aquaporin-4 Blocking and Permeation 
-The present study aimed to reveal the molecular mechanism of T-2 toxin-induced cerebral edema by aquaporin-4 (AQP4) blocking and permeation. AQP4 is a class of aquaporin channels that is mainly expressed in the brain, and its structural changes lead to life-threatening complications such as cardio-respiratory arrest, nephritis, and irreversible brain damage. We employed molecular dynamics simulation, text mining, and in vitro and in vivo analysis to study the structural and functional changes induced by the T-2 toxin on AQP4.
-[Publication: here]
-[Availability:](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00711)
-[T-2 toxin-induced cerebral edema, Aquaporin-4 (AQP4)]
+<b>Molecular Mechanism of T-2 Toxin-Induced Cerebral Edema by Aquaporin-4 Blocking and Permeation</b> <br>
+The present study aimed to reveal the molecular mechanism of T-2 toxin-induced cerebral edema by aquaporin-4 (AQP4) blocking and permeation. AQP4 is a class of aquaporin channels that is mainly expressed in the brain, and its structural changes lead to life-threatening complications such as cardio-respiratory arrest, nephritis, and irreversible brain damage. We employed molecular dynamics simulation, text mining, and in vitro and in vivo analysis to study the structural and functional changes induced by the T-2 toxin on AQP4.<br>
+[Publication: here]<br>
+[Availability:](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00711)<br>
+[T-2 toxin-induced cerebral edema, Aquaporin-4 (AQP4)]<br>
 
