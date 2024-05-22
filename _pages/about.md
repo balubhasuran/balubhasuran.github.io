@@ -130,7 +130,16 @@ c) Text Mining and Network Analysis to Identify Genes Related To High Altitude D
 
 <h3>Projects</h3>
 
-<b>1. Reducing  diagnostic delays in Acute Hepatic Porphyria using electronic health records data and machine learning: a multicenter development and validation study</b>
+<b>1. Quality of Answers of Generative Large Language Models Versus Peer Users for Interpreting Laboratory Test Results for Lay Patients: Evaluation Study</b>
+<br>•We aimed to assess the feasibility of using LLMs to generate relevant, accurate, helpful, and unharmful responses to laboratory test–related questions asked by patients and identify potential issues that can be mitigated using augmentation approaches.
+<br>•The quality of answers from social Q&A sites on health-related questions varies significantly, and not all responses are accurate or reliable. Large language models (LLMs) such as ChatGPT have opened a promising avenue for patients to have their questions answered.
+<br>•We collected laboratory test result–related Q&A data from Yahoo! Answers and selected 53 Q&A pairs for this study. 
+<br>•Using the LangChain framework and ChatGPT web portal, we generated responses to the 53 questions from 5 LLMs: GPT-4, GPT-3.5, LLaMA 2, MedAlpaca, and ORCA_mini.
+<br>•By evaluating LLMs in generating responses to patients’ laboratory test result–related questions, we found that, compared to other 4 LLMs and human answers from a Q&A website, GPT-4’s responses were more accurate, helpful, relevant, and safer. 
+
+Data Repository:[LLM](https://www.jmir.org/2024/1/e56655/)
+
+<b>2. Reducing  diagnostic delays in Acute Hepatic Porphyria using electronic health records data and machine learning: a multicenter development and validation study</b>
 <br>•Can machine learning be used to identify undiagnosed patients with Acute Hepatic Porphyria (AHP), a rare heritable condition?
 <br>•Train and evaluate models to separately predict referral and diagnosis
 
@@ -141,7 +150,7 @@ Using a cohort of recently seen patients at UCLA/UCSF, infer:
 
 Code Repository:[AHPPrediction](https://github.com/rwelab/AHPPrediction)
 
-<b>2. Accurate, Robust, and Scalable Machine Abstraction of Mayo Endoscopic Subscores from Colonoscopy Reports</b>
+<b>3. Accurate, Robust, and Scalable Machine Abstraction of Mayo Endoscopic Subscores from Colonoscopy Reports</b>
 
 Is natural language processing (NLP)a viable alternative to manually abstracting disease activity from notes?
 
@@ -152,7 +161,7 @@ Meaning: NLP methods like autoML appear to be sufficiently mature technologies f
 
 Code Repository: [MayoClassifier](https://github.com/rwelab/MayoClassifier)
 
-<b>3. Improving adverse event detection related to biologic immunosuppressant use – a pilot study of the BERT deep learning model adapted to real-world clinical notes</b>
+<b>4. Improving adverse event detection related to biologic immunosuppressant use – a pilot study of the BERT deep learning model adapted to real-world clinical notes</b>
 
 The goals of this project were to,
 <br>1) develop a clinical language-specific adaptation of the BERT model by training it using 75 million machine-PHI-redacted clinical notes authored at the University of California, San Francisco (UCSF), and 
@@ -169,7 +178,7 @@ Scientific publications/citations in literature: We are in the process of submit
 <br>Presentations at conferences/meetings: Our work has been accepted for presentation at the American Medical Informatics Association 2022 annual summit, and we anticipate additional conference presentations. We are also in the process of preparing an education session for the Drug Information Association meeting in 2023.
 
 <br>Code Repository: [IBD_ADE](https://github.com/balubhasuran/IBD_ADE)<br>
-<b>4. Patient trajectories and risk prediction in patients with NASH (Nonalcoholic steatohepatitis)</b>
+<b>5. Patient trajectories and risk prediction in patients with NASH (Nonalcoholic steatohepatitis)</b>
 <br>Primary:<br>
 In an incident cohort with NASH receiving the standard of care, predict the time to each of five major clinical outcomes (Compensated Cirrhosis, Decompensated Cirrhosis, Liver Transplant, Hepatocellular Carcinoma, Death)<br>
 <br>Secondary:<br>
@@ -181,19 +190,19 @@ Time to cardiovascular disease-associated mortality<br>
 
 Code Repository: [NASHDetection](https://github.com/rwelab/NASHDetection)
 
-<br><b>5. D-NER: Disease Name Recognizer from literature using stacked ensemble and fuzzy matching</b><br>
+<br><b>6. D-NER: Disease Name Recognizer from literature using stacked ensemble and fuzzy matching</b><br>
 The core concept behind D-NER tool is a hybrid methodology with various orthographical, semantic triggers and typographical features through ensemble machine learning coupled with in-house disease dictionary fuzzy matching.<br>
 [Publication: [here]]<br>
 [Availability:](http: //www.biominingbu.org:8080/dner/)<br>
 [Java, JSP, Java Script and Apache ]<br>
 
-<b>6. DisGeReEXT:  Knowledge discovery by analysis of gene disease relations from Medline </b>
+<b>7. DisGeReEXT:  Knowledge discovery by analysis of gene disease relations from Medline </b>
 <br>DisGeReEXT presents a literature wide analysis study (LWAS) to extract both direct and indirect gene disease associations using joint ensemble learning(explicit) along with concept profiling using ABC principle(implicit) for prioritizing and rationalize potential informative discoveries of the genetic role on diseases. The server also provides ranked the informative sentences using a scoring model and calculated the Disease-Disease similarity using functional association among shared genes<br>
 [Publication: here]<br>
 [Availability:](http://www.biominingbu.org/DisGeReExT/)<br>
 [Python, Java Script, CytoScape Web and Apache ]<br>
 
-<b>7. Automatic extraction of gene-disease associations from literature using joint ensemble learning: GDMiner</b>
+<b>8. Automatic extraction of gene-disease associations from literature using joint ensemble learning: GDMiner</b>
 <br>This work employed a supervised machine learning approach in which a rich feature set covering conceptual, syntax and semantic properties jointly learned with word embedding are trained using ensemble support vector machine for extracting gene-disease relations from four gold standard corpora. Upon evaluating the machine learning approach shows promised results of 85.34%, 83.93%,87.39% and 85.57% of F-measure on EUADR, GAD, CoMAGC and PolySearch corpora respectively. <br>
 [Publication: here]<br>
 [Availability:](http: //www.biominingbu.org:8080/gdminer/)<br>
@@ -204,14 +213,14 @@ The core concept behind D-NER tool is a hybrid methodology with various orthogra
 [Word2Vec, EnsembleSVM]<br>
 
 
-<b>8. BCC-NER: Bidirectional, Contextual Clues Named Entity Tagger for Gene/Protein Mention Recognition</b> <br>
+<b>9. BCC-NER: Bidirectional, Contextual Clues Named Entity Tagger for Gene/Protein Mention Recognition</b> <br>
 BCC-NER is deployed with three modules. The first module is for text processing which includes basic NLP pre-processing, feature extraction and feature selection. The second module is for training and model building with bidirectional conditional random fields (CRF) to parse the text in both directions (forward and backward) and integrate the backward and forward trained models using margin infused relaxed algorithm (MIRA). The third and final module is for post-processing to achieve a better performance, which includes surrounding text features, parenthesis mismatching and two-tier abbreviation algorithm. <br>
 [Publication: here]<br>
 [Availability:](http://biominingbu.org:8080/BCC-NER)<br>
 [Java, JSP, Java Script and Apache ]<br>
 
 
-<b>9. Text mining and network analysis to find functional associations of genes in high altitude diseases</b><br>
+<b>10. Text mining and network analysis to find functional associations of genes in high altitude diseases</b><br>
 In this work we identified the gene networks responsible for high altitude diseases by using the principle of gene co-occurrence statistics from literature and network analysis. First, we mined the literature data from PubMed on high-altitude diseases, and extracted the co-occurring gene pairs. Next, based on their co-occurrence frequency, gene pairs were ranked. Finally, a gene association network was created using statistical measures to explore potential relationships. Network analysis results revealed that EPO, ACE, IL6 and TNF are the top five genes that were found to co-occur with 20 or more genes, while the association between EPAS1 and EGLN1 genes is strongly substantiated<br>
 [Publication: here]<br>
 [Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S1476927117302207-mmc1.zip)<br>
@@ -219,28 +228,28 @@ In this work we identified the gene networks responsible for high altitude disea
 [Java, CytoScape,Clustering]<br>
 
 
-<b>10. Genomic analysis of RNA-Seq and sRNA-Seq data identifies potential regulatory sRNAs and their functional roles in Staphylococcus aureus</b><br>
+<b>11. Genomic analysis of RNA-Seq and sRNA-Seq data identifies potential regulatory sRNAs and their functional roles in Staphylococcus aureus</b><br>
 In-silico analysis of coding and non-coding RNA-Seq data to explore their functional association in resistant S. aureus. A global network was generated using opposite-expression and co-expression analysis to explore potential associations. 9 sRNAs and 10 genes were identified as potential hubs. The critical role of the non-coding RNA sRNA95 as a drug target was suggested.<br>
 [Publication: here]<br>
 [Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S0888754318300697-mmc1.pdf)<br>
 [whole-genome sRNA-gene network of Staphylococcus aureus]<br>
 
 
-<b>11. Multiscale Laplacian graph kernel combined with lexico-syntactic patterns for biomedical event extraction from literature</b><br>
+<b>12. Multiscale Laplacian graph kernel combined with lexico-syntactic patterns for biomedical event extraction from literature</b><br>
 This work employed a hybrid approach that integrates an ensemble-learning framework by combining a Multiscale Laplacian Graph kernel and a feature-based linear kernel, using a pattern-matching engine to identify biomedical events with arguments. This graph-based kernel not only captures the topological relationships between the individual event nodes but also identifies the associations among the subgraphs for complex events. In addition, the lexico-syntactic patterns were used to automatically discover the semantic role of each word in the sentence.
 [Publication: here]<br>
 [Availability:](http://biominingbu.org/bioevent_extraction/)<br>
               
 [Multiscale Laplacian Graph kernel, Bio Event]<br>
 
-<br><b>12. The potential role of procyanidin as a therapeutic agent against  SARS-CoV-2: a text mining, molecular docking and molecular dynamics simulation approach</b>
+<br><b>13. The potential role of procyanidin as a therapeutic agent against  SARS-CoV-2: a text mining, molecular docking and molecular dynamics simulation approach</b>
 <br>This study used text mining and named entity recognition method to identify co-occurrence of the important COVID 19 genes/proteins in the interaction network based on the frequency of the interaction. Network analysis revealed a set of genes/proteins, highly dense genes/protein clusters and sub-networks of Angiotensin-converting enzyme 2 (ACE2), Helicase, spike (S) protein (trimeric), membrane (M) protein, envelop (E) protein, and the nucleocapsid (N) protein. The isolated proteins are screened against procyanidin-a flavonoid from plants using molecular docking. Further, molecular dynamics simulation of critical proteins such as ACE2, Mpro and spike proteins are performed to elucidate the inhibition mechanism.<br>
 [Publication: here]<br>
 [Availability:](https://www.tandfonline.com/doi/suppl/10.1080/07391102.2020.1823887?scroll=top)<br>
 [COVID 19, Text Mining, Procyanidin, Flavonoids]<br>
 
 
-<b>13. Molecular Mechanism of T-2 Toxin-Induced Cerebral Edema by Aquaporin-4 Blocking and Permeation</b> <br>
+<b>14. Molecular Mechanism of T-2 Toxin-Induced Cerebral Edema by Aquaporin-4 Blocking and Permeation</b> <br>
 The present study aimed to reveal the molecular mechanism of T-2 toxin-induced cerebral edema by aquaporin-4 (AQP4) blocking and permeation. AQP4 is a class of aquaporin channels that is mainly expressed in the brain, and its structural changes lead to life-threatening complications such as cardio-respiratory arrest, nephritis, and irreversible brain damage. We employed molecular dynamics simulation, text mining, and in vitro and in vivo analysis to study the structural and functional changes induced by the T-2 toxin on AQP4.<br>
 [Publication: here]<br>
 [Availability:](https://pubs.acs.org/doi/abs/10.1021/acs.jcim.9b00711)<br>
