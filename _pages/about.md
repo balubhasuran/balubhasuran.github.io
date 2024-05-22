@@ -46,45 +46,45 @@ I am also exploring the recent trends in large langugale models (LLMs), causal i
 <br>• B.Sc. in Computer Science, University of Kerala, Kerala, India [2007-2010]
 
 <h3>Reviewer</h3>
-Bioinformatics, Oxford
-Journal of the American Medical Informatics Association, Oxford
-Artificial Intelligence in Medicine, Elsevier
-Knowledge Based Systems, Elsevier
-Scientific Reports, Springer Nature
-NAR Genomics and Bioinformatics, Oxford
-Biology Methods & Protocols,Oxford
-Gene, Elsevier
-PLoS ONE, PLOS
-IEEE Journal of Biomedical and Health Informatics, IEEE
-BMC Bioinformatics, BioMed Central
-BMC Medical Informatics and Decision Making, BioMed Central
-Medical Oncology (MO), Springer Nature
-Journal of Cannabis Research, BioMed Central
-Biotechnology and Applied Biochemistry, Wiley
-Journal of Biomolecular Structure and Dynamics, Taylor & Francis
-Frontiers in Artificial Intelligence, Frontiers
-Frontiers in Psychiatry, Frontiers
-Frontiers in Research Metric and analysis, Frontiers
-Heliyon, Elsevier
-Smart Health, Elsevier
-Clinical and Experimental Medicine, Elsevier
-Italian Journal of Animal Science, Springer
-Applied Sciences, MDPI
-Big Data and Cognitive Computing, MDPI
-Mathematics, MDPI
-Data,MDPI
-Informatics, MDPI
-Information, MDPI
-AI, MDPI
-Healthcare, MDPI
-Future Internet, MDPI
-Forecasting, MDPI
-Electronics, MDPI
-Machine Learning and Knowledge Extraction, MDPI
-Computers, MDPI
-International Journal of Environmental Research and Public Health, MDPI
-Journal of Applied Bioinformatics & Computational Biology,SciTechnol
-Artificial Intelligence in Health,ACS
+<br>Bioinformatics, Oxford
+<br>Journal of the American Medical Informatics Association, Oxford
+<br>Artificial Intelligence in Medicine, Elsevier
+<br>Knowledge Based Systems, Elsevier
+<br>Scientific Reports, Springer Nature
+<br>NAR Genomics and Bioinformatics, Oxford
+<br>Biology Methods & Protocols,Oxford
+<br>Gene, Elsevier
+<br>PLoS ONE, PLOS
+<br>IEEE Journal of Biomedical and Health Informatics, IEEE
+<br>BMC Bioinformatics, BioMed Central
+<br>BMC Medical Informatics and Decision Making, BioMed Central
+<br>Medical Oncology (MO), Springer Nature
+<br>Journal of Cannabis Research, BioMed Central
+<br>Biotechnology and Applied Biochemistry, Wiley
+<br>Journal of Biomolecular Structure and Dynamics, Taylor & Francis
+<br>Frontiers in Artificial Intelligence, Frontiers
+<br>Frontiers in Psychiatry, Frontiers
+<br>Frontiers in Research Metric and analysis, Frontiers
+<br>Heliyon, Elsevier
+<br>Smart Health, Elsevier
+<br>Clinical and Experimental Medicine, Elsevier
+<br>Italian Journal of Animal Science, Springer
+<br>Applied Sciences, MDPI
+<br>Big Data and Cognitive Computing, MDPI
+<br>Mathematics, MDPI
+<br>Data,MDPI
+<br>Informatics, MDPI
+<br>Information, MDPI
+<br>AI, MDPI
+<br>Healthcare, MDPI
+<br>Future Internet, MDPI
+<br>Forecasting, MDPI
+<br>Electronics, MDPI
+<br>Machine Learning and Knowledge Extraction, MDPI
+<br>Computers, MDPI
+<br>International Journal of Environmental Research and Public Health, MDPI
+<br>Journal of Applied Bioinformatics & Computational Biology,SciTechnol
+<br>Artificial Intelligence in Health,ACS
 
 <h3>Professional Affiliations</h3>
 • American Medical Informatics Association<br>
