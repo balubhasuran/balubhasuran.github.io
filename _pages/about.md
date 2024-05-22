@@ -48,6 +48,47 @@ I am also exploring the recent trends in large langugale models (LLMs), causal i
 <br>• Master of Computer Applications, Mahatma Gandhi University, Kerala, India [2010-2013]
 <br>• B.Sc. in Computer Science, University of Kerala, Kerala, India [2007-2010]
 
+<h3>Reviewer</h3>
+Bioinformatics, Oxford
+Journal of the American Medical Informatics Association, Oxford
+Artificial Intelligence in Medicine, Elsevier
+Knowledge Based Systems, Elsevier
+Scientific Reports, Springer Nature
+NAR Genomics and Bioinformatics, Oxford
+Biology Methods & Protocols,Oxford
+Gene, Elsevier
+PLoS ONE, PLOS
+IEEE Journal of Biomedical and Health Informatics, IEEE
+BMC Bioinformatics, BioMed Central
+BMC Medical Informatics and Decision Making, BioMed Central
+Medical Oncology (MO), Springer Nature
+Journal of Cannabis Research, BioMed Central
+Biotechnology and Applied Biochemistry, Wiley
+Journal of Biomolecular Structure and Dynamics, Taylor & Francis
+Frontiers in Artificial Intelligence, Frontiers
+Frontiers in Psychiatry, Frontiers
+Frontiers in Research Metric and analysis, Frontiers
+Heliyon, Elsevier
+Smart Health, Elsevier
+Clinical and Experimental Medicine, Elsevier
+Italian Journal of Animal Science, Springer
+Applied Sciences, MDPI
+Big Data and Cognitive Computing, MDPI
+Mathematics, MDPI
+Data,MDPI
+Informatics, MDPI
+Information, MDPI
+AI, MDPI
+Healthcare, MDPI
+Future Internet, MDPI
+Forecasting, MDPI
+Electronics, MDPI
+Machine Learning and Knowledge Extraction, MDPI
+Computers, MDPI
+International Journal of Environmental Research and Public Health, MDPI
+Journal of Applied Bioinformatics & Computational Biology,SciTechnol
+Artificial Intelligence in Health,ACS
+
 <h3>Professional Affiliations</h3>
 • Member of Indian Society For Technical Education<br>
 • International Association of Engineers (IAENG) (ID: 179630 )<br>
@@ -172,7 +213,7 @@ BCC-NER is deployed with three modules. The first module is for text processing 
 [Java, JSP, Java Script and Apache ]<br>
 
 
-<b>9. Text mining and network analysis to find functional associations of genes in high altitude diseases<b/><br>
+<b>9. Text mining and network analysis to find functional associations of genes in high altitude diseases</b><br>
 In this work we identified the gene networks responsible for high altitude diseases by using the principle of gene co-occurrence statistics from literature and network analysis. First, we mined the literature data from PubMed on high-altitude diseases, and extracted the co-occurring gene pairs. Next, based on their co-occurrence frequency, gene pairs were ranked. Finally, a gene association network was created using statistical measures to explore potential relationships. Network analysis results revealed that EPO, ACE, IL6 and TNF are the top five genes that were found to co-occur with 20 or more genes, while the association between EPAS1 and EGLN1 genes is strongly substantiated<br>
 [Publication: here]<br>
 [Availability:](https://ars.els-cdn.com/content/image/1-s2.0-S1476927117302207-mmc1.zip)<br>
