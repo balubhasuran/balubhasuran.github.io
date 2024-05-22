@@ -14,14 +14,11 @@ I’m Balu, from [Alappuzha](https://en.wikipedia.org/wiki/Alappuzha) (Lord Curz
 
 I am currently a Post Doctoral Fellow at [eHealth Lab](https://ehealthlab.cci.fsu.edu/) in School of Information (iSchool), College of Communication & Information at Florida State University working under Prof. [Zhe He](https://directory.cci.fsu.edu/zhe-he/). Prior to this I was a post doc at The Bakar Computational Health Sciences Institute (BCHSI), University of California, San Francisco under Dr. [Vivek Rudrapatna](https://profiles.ucsf.edu/vivek.rudrapatna) in the [The Real-World Evidence Lab](https://vivekrudrapatna.wixsite.com/rwelab). I have a Ph.D. in Biomedical Informatics under Prof. [Jeyakumar Natarajan](https://scholar.google.co.in/citations?user=sum_sT4AAAAJ&hl=en) in the DRDO-BU Center for Life Sciences, TamilNadu, India. I am a proud member of the [Data Mining and Text Mining Laboratory](http://www.biominingbu.org/) & Computational Biology Division @ DRDO-BU CLS. I’ve concentrated on automatic extraction of information from biomedical literature using machine learning algorithms and techniques, to bridge the gap between the slow growing manually curated databases and the vast information already available in free text in published articles. 
 
-
-
 <h2>Research Interest</h2>
 I am a researcher focuses on Information extraction and Machine learning in Clinical data science and Biomedicine.<br>
 I have 8+ years of experience in developing classification and prediction models.<br>
 I am interested in Natural Language Processing, Electronic Health Records, Machine Learning and Information Extraction<br>
 I am also exploring the recent trends in large langugale models (LLMs), causal inference, literature based discovery (LBD), network visualization, knowledge graphs (KGs), and explainable AI (XAI).<br>
-
 
 <h2>Research Groups</h2> 
 
@@ -90,10 +87,11 @@ Journal of Applied Bioinformatics & Computational Biology,SciTechnol
 Artificial Intelligence in Health,ACS
 
 <h3>Professional Affiliations</h3>
-• Member of Indian Society For Technical Education<br>
+• American Medical Informatics Association<br>
 • International Association of Engineers (IAENG) (ID: 179630 )<br>
-•  International Computer Science and Engineering Society (ICSES) (ID: 2795)<br>
+• International Computer Science and Engineering Society (ICSES) (ID: 2795)<br>
 • International Economics Development Research Center (IEDRC) (ID: 90080866 )<br>
+• Member of Indian Society For Technical Education<br>
 • Research Fellow DRDO-BU Center for Life Sciences<br>
 • Ph.D. Scholar at Bharathiar University,India <br>
 
