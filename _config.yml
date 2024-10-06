@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Balu Bhasuran"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher at Florida State University (FSU) "
+  bio              : "Visiting Assistant Professor in School of Information (iSchool), Florida State University (FSU)"
   location         : "Florida, USA"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=balu+bhasuran"
   googlescholar    : "https://scholar.google.co.in/citations?user=1onUbxYAAAAJ&hl=en"
-  email            :
+  email            : "bbhasuran@fsu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/Balu-Bhasuran"
   uri              :
   bitbucket        :
