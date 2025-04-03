@@ -47,66 +47,66 @@ I am also exploring the recent trends in large langugale models (LLMs), causal i
 <br>• B.Sc. in Computer Science, University of Kerala, Kerala, India [2007-2010]
 
 <h3>Reviewer</h3>
-<br>npj Digital Medicine, Nature<br>
-<br>npj Health Systems, Nature<br>
-<br>The Lancet Digital Health, Lancet<br>
-<br>Journal of the American Medical Informatics Association (JMIA), Oxford<br>
-<br>Bioinformatics, Oxford<br>
-<br>NAR Genomics and Bioinformatics, Oxford<br>
-<br>Biology Methods & Protocols, Oxford<br>
-<br>European Heart Journal - Digital Health, Oxford<br>
-<br>BMJ Health & Care Informatics, BMJ (British Medical Journal)<br>
-<br>BMJ Open, BMJ (British Medical Journal)<br>
-<br>Artificial Intelligence in Medicine (AIIM), Elsevier<br>
-<br>IEEE Journal of Biomedical and Health Informatics (JBHI), IEEE<br>
-<br>Journal of Medical Internet Research (JMIR), JMIR<br>
-<br>Knowledge Based Systems, Elsevier<br>
-<br>Journal of Healthcare Informatics Research (JHIR), Springer Nature<br>
-<br>Scientific Reports, Springer Nature<br>
-<br>Gene, Elsevier<br>
-<br>PLoS ONE, PLOS<br>
-<br>BMC Cancer, BioMed Central<br>
-<br>BMC Bioinformatics, BioMed Central<br>
-<br>BMC Medical Informatics and Decision Making, BioMed Central<br>
-<br>BMC Cardiovascular Disorders, BioMed Central<br>
-<br>Artificial Intelligence Review, Springer Nature<br>
-<br>Journal of Biomedical Semantics, Springer Nature<br>
-<br>In Silico Pharmacology, Springer Nature<br>
-<br>Discover Applied Sciences, Springer Nature<br>
-<br>Journal of Rare Diseases, Springer Nature<br>
-<br>International Journal of Machine Learning and Cybernetics, Springer Nature<br>
-<br>Medical Oncology (MO), Springer Nature<br>
-<br>Discover Data, Springer Nature<br>
-<br>Journal of Cannabis Research, BioMed Central<br>
-<br>Biotechnology and Applied Biochemistry, Wiley<br>
-<br>Journal of Biomolecular Structure and Dynamics, Taylor & Francis<br>
-<br>Frontiers in Artificial Intelligence<br>
-<br>Frontiers in Psychiatry<br>
-<br>Frontiers in Research Metric and analysis<br>
-<br>Frontiers in Big Data<br>
-<br>Heliyon<br>
-<br>Smart Health, Elsevier<br>
-<br>Clinical and Experimental Medicine, Elsevier<br>
-<br>Italian Journal of Animal Science, Springer<br>
-<br>Clinical epidemiology,  Taylor & Francis Group<br>
-<br>Applied Sciences, MDPI<br>
-<br>Big Data and Cognitive Computing, MDPI<br>
-<br>Mathematics, MDPI<br>
-<br>Data, MDPI<br>
-<br>Informatics, MDPI<br>
-<br>Information, MDPI<br>
-<br>AI, MDPI<br>
-<br>Healthcare, MDPI<br>
-<br>Future Internet, MDPI<br>
-<br>Forecasting, MDPI<br>
-<br>Electronics, MDPI<br>
-<br>Machine Learning and Knowledge Extraction, MDPI<br>
-<br>Computers, MDPI<br>
-<br>International Journal of Environmental Research and Public Health, MDPI<br>
-<br>Journal of Applied Bioinformatics & Computational Biology, SciTechnol<br>
-<br>Artificial Intelligence in Health, ACS<br>
-<br>Computers, Materials & Continua, Tech Science Press<br>
-<br>International Journal of Medical Sciences<br>
+<br>npj Digital Medicine, Nature
+<br>npj Health Systems, Nature
+<br>The Lancet Digital Health, Lancet
+<br>Journal of the American Medical Informatics Association (JMIA), Oxford
+<br>Bioinformatics, Oxford
+<br>NAR Genomics and Bioinformatics, Oxford
+<br>Biology Methods & Protocols, Oxford
+<br>European Heart Journal - Digital Health, Oxford
+<br>BMJ Health & Care Informatics, BMJ (British Medical Journal)
+<br>BMJ Open, BMJ (British Medical Journal)
+<br>Artificial Intelligence in Medicine (AIIM), Elsevier
+<br>IEEE Journal of Biomedical and Health Informatics (JBHI), IEEE
+<br>Journal of Medical Internet Research (JMIR), JMIR
+<br>Knowledge Based Systems, Elsevier
+<br>Journal of Healthcare Informatics Research (JHIR), Springer Nature
+<br>Scientific Reports, Springer Nature
+<br>Gene, Elsevier
+<br>PLoS ONE, PLOS
+<br>BMC Cancer, BioMed Central
+<br>BMC Bioinformatics, BioMed Central
+<br>BMC Medical Informatics and Decision Making, BioMed Central
+<br>BMC Cardiovascular Disorders, BioMed Central
+<br>Artificial Intelligence Review, Springer Nature
+<br>Journal of Biomedical Semantics, Springer Nature
+<br>In Silico Pharmacology, Springer Nature
+<br>Discover Applied Sciences, Springer Nature
+<br>Journal of Rare Diseases, Springer Nature
+<br>International Journal of Machine Learning and Cybernetics, Springer Nature
+<br>Medical Oncology (MO), Springer Nature
+<br>Discover Data, Springer Nature
+<br>Journal of Cannabis Research, BioMed Central
+<br>Biotechnology and Applied Biochemistry, Wiley
+<br>Journal of Biomolecular Structure and Dynamics, Taylor & Francis
+<br>Frontiers in Artificial Intelligence
+<br>Frontiers in Psychiatry
+<br>Frontiers in Research Metric and analysis
+<br>Frontiers in Big Data
+<br>Heliyon
+<br>Smart Health, Elsevier
+<br>Clinical and Experimental Medicine, Elsevier
+<br>Italian Journal of Animal Science, Springer
+<br>Clinical epidemiology,  Taylor & Francis Group
+<br>Applied Sciences, MDPI
+<br>Big Data and Cognitive Computing, MDPI
+<br>Mathematics, MDPI
+<br>Data, MDPI
+<br>Informatics, MDPI
+<br>Information, MDPI
+<br>AI, MDPI
+<br>Healthcare, MDPI
+<br>Future Internet, MDPI
+<br>Forecasting, MDPI
+<br>Electronics, MDPI
+<br>Machine Learning and Knowledge Extraction, MDPI
+<br>Computers, MDPI
+<br>International Journal of Environmental Research and Public Health, MDPI
+<br>Journal of Applied Bioinformatics & Computational Biology, SciTechnol
+<br>Artificial Intelligence in Health, ACS
+<br>Computers, Materials & Continua, Tech Science Press
+<br>International Journal of Medical Sciences
 <br><br>
 
 <h3>Professional Affiliations</h3>
