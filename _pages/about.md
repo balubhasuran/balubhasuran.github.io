@@ -46,7 +46,7 @@ I am also exploring the recent trends in large langugale models (LLMs), causal i
 <br>• Master of Computer Applications, Mahatma Gandhi University, Kerala, India [2010-2013]
 <br>• B.Sc. in Computer Science, University of Kerala, Kerala, India [2007-2010]
 
-<h3>Reviewer</h3>
+<h2>Reviewer</h2>
 <br>npj Digital Medicine, Nature
 <br>npj Health Systems, Nature
 <br>The Lancet Digital Health, Lancet
