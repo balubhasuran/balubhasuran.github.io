@@ -16,7 +16,7 @@ I am currently a [Visiting Assistant Professor](https://directory.cci.fsu.edu/ba
 
 <h2>Research Interest</h2>
 I am a researcher focuses on Information extraction and Machine learning in Clinical data science and Biomedicine.<br>
-I have 8+ years of experience in developing classification and prediction models.<br>
+I have 10+ years of experience in developing classification and prediction models.<br>
 I am interested in Natural Language Processing, Electronic Health Records, Machine Learning and Information Extraction<br>
 I am also exploring the recent trends in large langugale models (LLMs), causal inference, literature based discovery (LBD), network visualization, knowledge graphs (KGs), and explainable AI (XAI).<br>
 
@@ -32,62 +32,86 @@ I am also exploring the recent trends in large langugale models (LLMs), causal i
 
 
 <h2>Experience</h2>
-**July 2023**-  Post Doctoral Fellow at eHealth Lab in School of Information (iSchool), College of Communication & Information at Florida State University, USA<br><br>
+**September 2024-Present**-  Visiting Assistant Professor in School of Information (iSchool), College of Communication & Information at Florida State University, USA<br><br>
+**July 2023-Aug 2024**-  Post Doctoral Fellow at eHealth Lab in School of Information (iSchool), College of Communication & Information at Florida State University, USA<br><br>
 **August 2021-July 2023**  Post Doctoral Fellow, The Bakar Computational Health Sciences Institute (BCHSI), University of California, San Francisco (UCSF), USA<br><br>
 **December 2020-July 2021** Affiliate, The Bakar Computational Health Sciences Institute (BCHSI), University of California, San Francisco (UCSF), USA<br><br>
 **September 2014- December 2020**  Full time PhD research scholar in the field of Biomedical Literature Mining at Bharathiar University, Coimbatore, Tamilnadu, India<br><br>
 **July 2014 – June 2018** Junior Research Fellow (JRF) , Major Research Project (MRP) at DRDO-BU Center for Life Sciences, Coimbatore, Tamilnadu, India<br><br>
 
 <h2> Academics</h2>
-<br>• Post Doctoral Fellow at eHealth Lab in School of Information (iSchool), College of Communication & Information at Florida State University, USA[2023-Present]
+<br>• Post Doctoral Fellow at eHealth Lab in School of Information (iSchool), College of Communication & Information at Florida State University, USA[2023-2024]
 <br>• Post Doctoral Fellow, The Bakar Computational Health Sciences Institute (BCHSI), University of California, San Francisco (UCSF), USA[2021-2023]
 <br>• Ph.D. in Computational Biology, Bharathiar University, Tamilnadu, India [2014-2020]
 <br>• Master of Computer Applications, Mahatma Gandhi University, Kerala, India [2010-2013]
 <br>• B.Sc. in Computer Science, University of Kerala, Kerala, India [2007-2010]
 
 <h3>Reviewer</h3>
-<br>Bioinformatics, Oxford
-<br>Journal of the American Medical Informatics Association, Oxford
-<br>Artificial Intelligence in Medicine, Elsevier
-<br>Knowledge Based Systems, Elsevier
-<br>Scientific Reports, Springer Nature
-<br>NAR Genomics and Bioinformatics, Oxford
-<br>Biology Methods & Protocols,Oxford
-<br>Gene, Elsevier
-<br>PLoS ONE, PLOS
-<br>IEEE Journal of Biomedical and Health Informatics, IEEE
-<br>BMC Bioinformatics, BioMed Central
-<br>BMC Medical Informatics and Decision Making, BioMed Central
-<br>Medical Oncology (MO), Springer Nature
-<br>Journal of Cannabis Research, BioMed Central
-<br>Biotechnology and Applied Biochemistry, Wiley
-<br>Journal of Biomolecular Structure and Dynamics, Taylor & Francis
-<br>Frontiers in Artificial Intelligence, Frontiers
-<br>Frontiers in Psychiatry, Frontiers
-<br>Frontiers in Research Metric and analysis, Frontiers
-<br>Heliyon, Elsevier
-<br>Smart Health, Elsevier
-<br>Clinical and Experimental Medicine, Elsevier
-<br>Italian Journal of Animal Science, Springer
-<br>Applied Sciences, MDPI
-<br>Big Data and Cognitive Computing, MDPI
-<br>Mathematics, MDPI
-<br>Data,MDPI
-<br>Informatics, MDPI
-<br>Information, MDPI
-<br>AI, MDPI
-<br>Healthcare, MDPI
-<br>Future Internet, MDPI
-<br>Forecasting, MDPI
-<br>Electronics, MDPI
-<br>Machine Learning and Knowledge Extraction, MDPI
-<br>Computers, MDPI
-<br>International Journal of Environmental Research and Public Health, MDPI
-<br>Journal of Applied Bioinformatics & Computational Biology,SciTechnol
-<br>Artificial Intelligence in Health,ACS
+<br>npj Digital Medicine, Nature<br>
+<br>npj Health Systems, Nature<br>
+<br>The Lancet Digital Health, Lancet<br>
+<br>Journal of the American Medical Informatics Association (JMIA), Oxford<br>
+<br>Bioinformatics, Oxford<br>
+<br>NAR Genomics and Bioinformatics, Oxford<br>
+<br>Biology Methods & Protocols, Oxford<br>
+<br>European Heart Journal - Digital Health, Oxford<br>
+<br>BMJ Health & Care Informatics, BMJ (British Medical Journal)<br>
+<br>BMJ Open, BMJ (British Medical Journal)<br>
+<br>Artificial Intelligence in Medicine (AIIM), Elsevier<br>
+<br>IEEE Journal of Biomedical and Health Informatics (JBHI), IEEE<br>
+<br>Journal of Medical Internet Research (JMIR), JMIR<br>
+<br>Knowledge Based Systems, Elsevier<br>
+<br>Journal of Healthcare Informatics Research (JHIR), Springer Nature<br>
+<br>Scientific Reports, Springer Nature<br>
+<br>Gene, Elsevier<br>
+<br>PLoS ONE, PLOS<br>
+<br>BMC Cancer, BioMed Central<br>
+<br>BMC Bioinformatics, BioMed Central<br>
+<br>BMC Medical Informatics and Decision Making, BioMed Central<br>
+<br>BMC Cardiovascular Disorders, BioMed Central<br>
+<br>Artificial Intelligence Review, Springer Nature<br>
+<br>Journal of Biomedical Semantics, Springer Nature<br>
+<br>In Silico Pharmacology, Springer Nature<br>
+<br>Discover Applied Sciences, Springer Nature<br>
+<br>Journal of Rare Diseases, Springer Nature<br>
+<br>International Journal of Machine Learning and Cybernetics, Springer Nature<br>
+<br>Medical Oncology (MO), Springer Nature<br>
+<br>Discover Data, Springer Nature<br>
+<br>Journal of Cannabis Research, BioMed Central<br>
+<br>Biotechnology and Applied Biochemistry, Wiley<br>
+<br>Journal of Biomolecular Structure and Dynamics, Taylor & Francis<br>
+<br>Frontiers in Artificial Intelligence<br>
+<br>Frontiers in Psychiatry<br>
+<br>Frontiers in Research Metric and analysis<br>
+<br>Frontiers in Big Data<br>
+<br>Heliyon<br>
+<br>Smart Health, Elsevier<br>
+<br>Clinical and Experimental Medicine, Elsevier<br>
+<br>Italian Journal of Animal Science, Springer<br>
+<br>Clinical epidemiology,  Taylor & Francis Group<br>
+<br>Applied Sciences, MDPI<br>
+<br>Big Data and Cognitive Computing, MDPI<br>
+<br>Mathematics, MDPI<br>
+<br>Data, MDPI<br>
+<br>Informatics, MDPI<br>
+<br>Information, MDPI<br>
+<br>AI, MDPI<br>
+<br>Healthcare, MDPI<br>
+<br>Future Internet, MDPI<br>
+<br>Forecasting, MDPI<br>
+<br>Electronics, MDPI<br>
+<br>Machine Learning and Knowledge Extraction, MDPI<br>
+<br>Computers, MDPI<br>
+<br>International Journal of Environmental Research and Public Health, MDPI<br>
+<br>Journal of Applied Bioinformatics & Computational Biology, SciTechnol<br>
+<br>Artificial Intelligence in Health, ACS<br>
+<br>Computers, Materials & Continua, Tech Science Press<br>
+<br>International Journal of Medical Sciences<br>
+<br><br>
 
 <h3>Professional Affiliations</h3>
-• American Medical Informatics Association<br>
+• American Medical Informatics Association (AMIA)<br>
+• Association for Computing Machinery (ACM) Membership No.: 2892266
 • International Association of Engineers (IAENG) (ID: 179630 )<br>
 • International Computer Science and Engineering Society (ICSES) (ID: 2795)<br>
 • International Economics Development Research Center (IEDRC) (ID: 90080866 )<br>
@@ -96,9 +120,10 @@ I am also exploring the recent trends in large langugale models (LLMs), causal i
 • Ph.D. Scholar at Bharathiar University,India <br>
 
 <h3>Awards</h3>
-a) Distant supervision for large scale extraction of gene-disease associations from literature using DeepDive, International Conference on Innovative Computing and Communication (ICICC-2018), Springer, Guru Nanak Institute of Management, West Punjabi Bagh, New Delhi, (Best paper award, Data Mining)<br> 
-b) Text Mining to Identify Gene-Gene Interactions of High Altitude Diseases, International Symposium on Computational Biology and Bioinformatics, Kerala university (2016) (Best poster award)<br>
-c) Text Mining and Network Analysis to Identify Genes Related To High Altitude Diseases, Fifth Edition of National Workshop on Computer Vision, Image Processing Techniques and Data Analytics, Amrita School of Engineering Amrita Vishwa Vidyapeetham, (2015) (Best poster award)<br> 
+•  American Transplant Congress Pediatric Poster Award Winner, 2024
+•  Best paper award, Data Mining, International Conference on Innovative Computing and Communication (ICICC-2018)
+•  Best poster award, Text Mining, International Symposium on Computational Biology and Bioinformatics (BioIndica- 2016)
+•  Best poster award, Text Mining, Fifth Edition of National Workshop on Computer Vision, Image Processing Techniques and Data Analytics, 2015
 
 <h3>Certifications</h3>
 • Microsoft Certified Professional (MCP) in Microsoft .NET Framework Application Development Foundation<br>
@@ -108,7 +133,7 @@ c) Text Mining and Network Analysis to Identify Genes Related To High Altitude D
 • Introduction to R Course, DataCamp (Id: 3,009,267) <br>
 
 <h3>Data Science and Machine Learning</h3>
-<br>• 8+ years of experience in text mining, natural language processing, machine learning applied to biomedical text data, information extraction and information retrieval
+<br>• 10+ years of experience in text mining, natural language processing, machine learning applied to biomedical text data, information extraction and information retrieval
 <br>• Experience in working with Deep Learning platforms TensorFlow, Keras, PyTorch etc.
 <br>• Excellent understanding of machine learning techniques and algorithms, such as CRF, SVM, Graph Kernels, Decision Forests, etc. with ensemble learning using MALLET, LibSVM, EnsembleSVM etc.
 <br>• Experience in Python libraries for text data analyses and machine learning such as NLTK, Spacy, ScikitLearn, Word2Vec etc.
