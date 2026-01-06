@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Balu Bhasuran"
   avatar           : "profile.png"
-  bio              : "Visiting Assistant Professor in School of Information (iSchool), Florida State University (FSU)"
+  bio              : "Research Faulty I in School of Information (iSchool), Florida State University (FSU)"
   location         : "Florida, USA"
-  employer         :
+  employer         : "https://directory.cci.fsu.edu/balu-bhasuran/"
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=balu+bhasuran"
   googlescholar    : "https://scholar.google.co.in/citations?user=1onUbxYAAAAJ&hl=en"
   email            : "bbhasuran@fsu.edu"
