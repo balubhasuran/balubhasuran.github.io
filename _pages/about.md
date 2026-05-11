@@ -16,7 +16,7 @@ I am currently a [Research Faculty I](https://directory.cci.fsu.edu/balu-bhasura
 
 <h2>Research Interest</h2>
 I am a researcher focuses on Information extraction and Machine learning in Clinical data science and Biomedicine.<br>
-I have 10+ years of experience in developing classification and prediction models.<br>
+I have 12+ years of experience in developing classification and prediction models.<br>
 I am interested in Natural Language Processing, Electronic Health Records, Machine Learning and Information Extraction<br>
 I am also exploring the recent trends in large langugale models (LLMs), causal inference, literature based discovery (LBD), network visualization, knowledge graphs (KGs), and explainable AI (XAI).<br>
 
